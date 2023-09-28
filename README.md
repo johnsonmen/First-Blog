@@ -9,7 +9,7 @@
 
 ## Installation <a name="installation"></a>
 
-The First Blog project was built using Python 3.9.16.
+The First Blog project was built using Python 3.9.16
 Please see the requirement.txt for required packages.
 
 
@@ -17,7 +17,7 @@ Please see the requirement.txt for required packages.
 
 The project was an attempt to analyze the [World University Rankings of 2023](https://www.kaggle.com/datasets/alitaqi000/world-university-rankings-2023) Dataset from Kaggle. We will conduct a comprehensive exploratory data analysis (EDA) to understand the dataset's structure, distribution of variables, and any missing or inconsistent data. The main questions are:
 
-1. What are the distributions of the top 50 universities' scores?
+1. What are the distributions of the top 15 universities' scores?
 2. What countries have the most universities ranked in the top 100 of the world?
 3. What is the significant indicator of the rankings of the universities in this data?
 
@@ -48,7 +48,7 @@ Details of the dataset can be found [here](https://www.timeshighereducation.com/
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the Medium blog available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the Medium blog available [here](https://medium.com/@kimjohnson9906/what-is-a-good-university-to-you-5f040a195b01).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
